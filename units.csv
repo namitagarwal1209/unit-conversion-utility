@@ -1,0 +1,4 @@
+SourceUnit,TargetUnit,Factor
+meter,feet,3.28084
+feet,inch,12
+kilogram,gram,1000
