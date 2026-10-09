@@ -44,9 +44,11 @@ python main.py "C:\Users\Namit\Documents\conversions.csv"
 
 The custom CSV must contain the columns SourceUnit, TargetUnit, and Factor, as shown below:
 
+```text
 SourceUnit,TargetUnit,Factor
 meter,feet,3.28084
 feet,inch,12
+```
 
 ### User Input
 
